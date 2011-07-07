@@ -1,0 +1,4 @@
+#!/bin/bash
+
+npm uninstall npm -g
+true;

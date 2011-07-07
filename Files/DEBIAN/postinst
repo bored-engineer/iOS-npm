@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /var/mobile/npm/
+node cli.js install -g -f 
+true;

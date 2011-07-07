@@ -1,0 +1,9 @@
+Package: com.innoying.npm
+Name: npm
+Version: 1.0.15
+Architecture: iphoneos-arm
+Description: npm is a package manager for node. You can use it to install and publish your node programs. It manages dependencies and does other cool stuff. NOTE: npm require node.js
+Homepage: http://npmjs.org
+Maintainer: Luke Young (innoying) <cydia@innoying.com>
+Author: isaacs <i@izs.me>
+Section: Development
